@@ -1,0 +1,1 @@
+execute at @e[type=allay,limit=1] facing entity @p[distance=1..] feet run teleport @e[type=minecraft:allay,limit=1] ^ ^ ^0.1 facing entity @p eyes
